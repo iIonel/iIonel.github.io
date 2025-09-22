@@ -3,7 +3,6 @@ title: "Understanding CNC Machines: Axes, Coordinates and G-code (Basics)"
 date: 2025-09-22 00:00:00 +0300
 categories:  [CNC]
 tags: [cnc, g-code, machines]
-author: [iIonel]
 ---
 
 When people first encounter CNC machines, they often hear terms like *“3-axis,” “5-axis,”* or see snippets of mysterious G-code. This article breaks down what those terms mean, why the number of axes matters, and how software ties everything together. We’ll also look at laser engravers, which share many principles with CNC machining.
