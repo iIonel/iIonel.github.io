@@ -1,6 +1,6 @@
 ---
 title: "Visu: Building an Algorithm Visualizer and Shipping It to Flathub"
-date: 2026-11-05 20:00:00 +0200
+date: 2026-11-05 10:00:00 +0200
 categories: [Projects, Open Source]
 tags: [visu, flathub, flatpak, gtk4, python, open-source, linux]
 image:
