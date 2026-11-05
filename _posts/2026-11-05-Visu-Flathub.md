@@ -40,7 +40,7 @@ Building something that runs on *my* machine is one thing. Making it easy for an
 flatpak install flathub io.github.iionel.Visu
 ```
 
-It was also my first real contribution to an open source ecosystem bigger than my own repos. And I learned a lot, mostly by making mistakes in public. 😅
+It was also my first real contribution to an open source ecosystem bigger than my own repos. And I learned a lot, mostly by making mistakes in public. 
 
 ## How the submission went
 
@@ -79,7 +79,7 @@ A successful build doesn't prove the app runs. **Test the Flatpak itself**, not 
 
 This was the part I understood least, so I used Claude to help me put the Python modules file together. I said so in the PR, because the commit had a co-authored-by trailer, and I checked the wheels and tested the build locally with `flatpak-builder` before pushing. Being open about how the work was done felt like the right call.
 
-### Merged 🎉
+### Merged 
 
 After that fix, the reviewer ran the merge command and the bot created the repository [`flathub/io.github.iionel.Visu`](https://github.com/flathub/io.github.iionel.Visu). A few hours later, Visu was live on Flathub.
 
@@ -97,7 +97,7 @@ Visu is now something I *maintain*, not just something I built. Next I want to a
 
 If you're learning algorithms, or teaching them, give it a try:
 
-- 📦 [Visu on Flathub](https://flathub.org/apps/io.github.iionel.Visu)
-- 💻 [Source code on GitHub](https://github.com/iIonel/Visu)
+- [Visu on Flathub](https://flathub.org/apps/io.github.iionel.Visu)
+- [Source code on GitHub](https://github.com/iIonel/Visu)
 
-Issues, ideas and PRs are welcome. After all, that's how I got here too. 🙂
+Issues, ideas and PRs are welcome. After all, that's how I got here too. 
